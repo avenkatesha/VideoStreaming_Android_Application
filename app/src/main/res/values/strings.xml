@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Video Streaming</string>
+    <string name="sign_in">Sign in</string>
+    <string name="new_account_sign_up_here">New Account? Sign Up Here</string>
+</resources>
