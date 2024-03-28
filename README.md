@@ -9,4 +9,3 @@ This is a feature-rich Android application designed to cater to all your movie-r
 ![Screenshot (60)](https://github.com/avenkatesha/VideoStreaming_Android_Application/assets/125686974/3ad11331-58ae-406d-b6bc-63fe9de87c9c)
 
 This application uses the firebase database to store the user authentication and movie URL's.
-![firebase](https://github.com/avenkatesha/VideoStreaming_Android_Application/assets/125686974/0bb68c5e-5c10-42e1-9d3c-077e1b43ac36)
